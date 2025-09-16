@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week2_신유진](url)
+- [📚Week2_신유진](https://github.com/Ewha-Euron/9th-Research/issues/16#issue-3420646934)
 ---
 
 ## 💚우수 과제💚
