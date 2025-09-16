@@ -9,4 +9,5 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week1_1_김지은](https://equatorial-chard-0cb.notion.site/Deep-residual-learning-for-image-recognition-1b1c71118dac80028e91f92326aa5c5d?source=copy_link)
+- [🌟Week1_예습_김지은](https://equatorial-chard-0cb.notion.site/Deep-residual-learning-for-image-recognition-1b1c71118dac80028e91f92326aa5c5d?source=copy_link)
+- [🌟Week1_복습_최은우](https://github.com/suesu1204/9th-Research/blob/Week_1/1주차_복습과제_최은우.ipynb)
