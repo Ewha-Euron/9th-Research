@@ -1,13 +1,13 @@
 # 📁ARCHIVE - 2025/00/00
 
 ## 💚발제 논문💚  
-- [title](url)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 ---
 
 ## 💚발표 자료💚
-- [📚Week1_000](url)
+- [📚Week2_신유진](url)
 ---
 
 ## 💚우수 과제💚
-- [🌟Week1_1_000](url)
-- [🌟Week1_2_000](url)
+- [🌟Week2_예습_문원정](https://surf-mochi-095.notion.site/Attention-Is-All-You-Need-Transformer-26a505ee8ec280bdb30dfff04c499830?source=copy_link)
+- [🌟Week2_복습_000](url)
