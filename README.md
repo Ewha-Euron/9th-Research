@@ -10,4 +10,4 @@
 
 ## 💚우수 과제💚
 - [🌟Week2_예습_문원정](https://surf-mochi-095.notion.site/Attention-Is-All-You-Need-Transformer-26a505ee8ec280bdb30dfff04c499830?source=copy_link)
-- [🌟Week2_복습_000](url)
+- [🌟Week2_복습_추윤서](https://github.com/YoonseoChu/9th-Research/blob/Week_2/Week2_Transformer.ipynb)
