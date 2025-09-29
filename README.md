@@ -9,5 +9,5 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week3_1_000](url)
-- [🌟Week3_2_000](url)
+- [🌟Week3_예습_문원정](https://surf-mochi-095.notion.site/Auto-Encoding-Variational-Bayes-VAE-273505ee8ec2800bbf37edd521af2087?source=copy_link)
+- [🌟Week3_복습_000](url)
