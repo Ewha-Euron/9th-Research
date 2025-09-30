@@ -1,11 +1,11 @@
 # 📁ARCHIVE - 2025/00/00
 
 ## 💚발제 논문💚  
-- [title](url)
+- [DQN - Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
 ---
 
 ## 💚발표 자료💚
-- [📚Week1_000](url)
+- [📚Week4_최은우](https://github.com/Ewha-Euron/9th-Research/issues/34#issue-3468140017)
 ---
 
 ## 💚우수 과제💚
